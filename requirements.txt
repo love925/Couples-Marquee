@@ -8,3 +8,15 @@ drf-yasg==1.21.7
 django-filter==24.2
 django-debug-toolbar==4.3.0
 Pillow
+
+
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+Pillow
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
+python-dotenv
